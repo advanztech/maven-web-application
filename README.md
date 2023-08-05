@@ -1,2 +1,2 @@
  maven-web-application
- my personal project
+ my project 2
